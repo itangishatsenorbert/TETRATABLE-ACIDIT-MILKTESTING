@@ -1,0 +1,7 @@
+titrable_acidity,temperature,pH,conductivity,predicted_status
+0.16,5.2,6.7,4.8,Unknown
+0.17,7.5,6.6,5.0,Unknown
+0.155,12.1,6.5,4.5,Unknown
+0.18,15.3,6.8,5.2,Unknown
+0.145,8.4,6.55,4.2,Unknown
+0.175,10.0,6.6,4.7,Unknown
